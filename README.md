@@ -17,13 +17,13 @@ https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
 https://cdn.jsdelivr.net/gh/oslook/clash-freenode@main/clash.yaml
 https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2022.-3-14.yaml
 ```
-V2ray订阅
+- V2ray订阅
 ```
 https://raw.fastgit.org/freefq/free/master/v2
 https://raw.fastgit.org/freev2/free/main/v2
 https://paste.in/raw/3viS0Z
 ```
-GitHub代理加速
+- GitHub代理加速
 ```
 https://github.com/freefq/free
 ```
