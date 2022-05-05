@@ -4,43 +4,28 @@
 
 ---
 
-## 群组列表
-
-- [QQ 群组（受限）](https://jq.qq.com/?k=EYO8pnWi)
-- [Telegram 频道](http://t.me/FreedomResources)
-- [Telegram 群组](http://t.me/FreedomResourcesChat)
-- [Discord 服务器](https://disboard.org/server/824051331693281280)
 
 ## 使用方法
 
 复制以下订阅地址并粘贴到订阅列表
 
-- Clash 客户端
+- Clash订阅
 ```
-https://zyzmzyz.netlify.app/Clash.yml
+https://raw.githubusercontent.com/anaer/Sub/main/clash.yml
+https://cdn.jsdelivr.net/gh/anaer/Sub@main/clash.yml
+https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
+https://cdn.jsdelivr.net/gh/oslook/clash-freenode@main/clash.yaml
+https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2022.-3-14.yaml
 ```
-备用1：GitHub 直链
+V2ray订阅
 ```
-https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
+https://raw.fastgit.org/freefq/free/master/v2
+https://raw.fastgit.org/freev2/free/main/v2
+https://paste.in/raw/3viS0Z
 ```
-备用2：Jsdelivr CDN镜像
+GitHub代理加速
 ```
-https://cdn.jsdelivr.net/gh/zyzmzyz/free-nodes@master/Clash.yml
-```
-
-- SS / SSR 订阅
-```
-https://suo.yt/h6QALFa
-```
-
-- Vmess 订阅
-```
-https://suo.yt/O2oKaRU
-```
-
-- 小火箭 订阅
-```
-https://suo.yt/asm7P8N
+https://github.com/freefq/free
 ```
 
 ## Clash 客户端下载
