@@ -10,22 +10,35 @@
 复制以下订阅地址并粘贴到订阅列表
 
 - Clash订阅
-```
+
 anaer
+```
 https://raw.githubusercontent.com/anaer/Sub/main/clash.yml
+```
+```
 https://cdn.jsdelivr.net/gh/anaer/Sub@main/clash.yml
+```
 
 oslook
+```
 https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
+```
+```
 https://cdn.jsdelivr.net/gh/oslook/clash-freenode@main/clash.yaml
+```
 
 JACKUSR2089
+```
 https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2022.-3-14.yaml
 ```
 - V2ray订阅
 ```
 https://raw.fastgit.org/freefq/free/master/v2
+```
+```
 https://raw.fastgit.org/freev2/free/main/v2
+```
+```
 https://paste.in/raw/3viS0Z
 ```
 - GitHub代理加速
