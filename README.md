@@ -42,9 +42,11 @@ https://paste.in/raw/3viS0Z
 ```
 ## GitHub代理加速
 - [GitHub Proxy (文件代理加速下载服务)](https://ghproxy.com/)
+- [dev-sidecar (Win/Mac/Ubuntu)](https://github.com/docmirror/dev-sidecar)
 ## Clash 客户端下载
 - [Clash_CFW (Win/Mac/Linux)](https://github.com/Fndroid/clash_for_windows_pkg/releases) | [汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
 - [Clash (Android)](https://github.com/Kr328/ClashForAndroid/releases)
+- [Clash for Windows (详述)](https://docs.cfw.lbyczf.com/)
 ## V2ray 客户端下载
 - [v2rayN (Win)](https://github.com/2dust/v2rayN/releases/)
 - [v2rayNG (Android)](https://github.com/2dust/v2rayNG/releases)
