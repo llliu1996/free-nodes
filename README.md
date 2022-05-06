@@ -40,11 +40,8 @@ https://raw.fastgit.org/freev2/free/main/v2
 ```
 https://paste.in/raw/3viS0Z
 ```
-- GitHub代理加速
-```
+## GitHub代理加速
 - [GitHub Proxy (文件代理加速下载服务)](https://ghproxy.com/)
-```
-
 ## Clash 客户端下载
 - [Clash_CFW (Win/Mac/Linux)](https://github.com/Fndroid/clash_for_windows_pkg/releases) | [汉化包](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
 - [Clash (Android)](https://github.com/Kr328/ClashForAndroid/releases)
