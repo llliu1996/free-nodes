@@ -1,4 +1,6 @@
 ## 网络节点
+- 同步github的hosts
+https://github.com/Licoy/fetch-github-hosts
 
 本节点搜集自网络，自用。
 
